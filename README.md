@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luqman Cassim (LUKA)</h1>
 <h3 align="center">Based in SriLanka</h3>
 
-<img src="https://i.pinimg.com/1200x/50/ca/ff/50caffe83eafe37ea761f5001b5abaa7.jpg" alt="luqmanshaqiq2" />
+<img src="https://i.pinimg.com/1200x/50/ca/ff/50caffe83eafe37ea761f5001b5abaa7.jpg" alt="luqmanshaqiq2" width="250px" height="250px"/>
 
 <p align="center">
   <a href="https://t.me/swezy" target="_blank"><img src="https://img.shields.io/badge/Telegram-@Swezy-blue?style=for-the-badge&logo=telegram" /></a>
