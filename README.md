@@ -15,9 +15,6 @@
   <a href="https://discord.com/users/1405599489531576411"><img src="https://img.shields.io/badge/Discord-Swezy%20%3C3-blue?style=for-the-badge&logo=discord" /></a>
   <a href="https://discord.gg/KkxjCe8Fg2"><img src="https://img.shields.io/badge/Discord-Server-blue?style=for-the-badge&logo=discord" /></a>
   <br />
-  <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1405599489531576411?borderRadius=5px&idleMessage=Idle&bg=a&animated=true;" alt="RPC" />
-  <!--<br />-->
-  <!--<b><i>💀 Banned from Discord 💀</i></b>-->
-  <!--432260852486242314-->
+
+ 
 </p>
