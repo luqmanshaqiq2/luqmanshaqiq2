@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://t.me/swezy" target="_blank"><img src="https://img.shields.io/badge/Instagram@Swezy-blue?style=for-the-badge&logo=instagram" /></a>
   <a href="https://x.com/Swezy_1337"><img src="https://img.shields.io/badge/Twitter-@Swezy_1337-blue?style=for-the-badge&logo=x" /></a>
-  <a href="mailto:contact@swezy.dev"><img src="https://img.shields.io/badge/Email-contact@swezy.dev-informational?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:luqmanshaqiq2@gmail.com"><img src="https://img.shields.io/badge/Gmail-luqmanshaqiq2@gmail.com-informational?style=for-the-badge&logo=gmail" /></a>
   <br />
   <a href="https://discord.com/users/1405599489531576411"><img src="https://img.shields.io/badge/Discord-Swezy%20%3C3-blue?style=for-the-badge&logo=discord" /></a>
   <a href="https://discord.gg/KkxjCe8Fg2"><img src="https://img.shields.io/badge/Discord-Server-blue?style=for-the-badge&logo=discord" /></a>
