@@ -2,9 +2,9 @@
 <h3 align="center">Based in SriLanka</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/50/ca/ff/50caffe83eafe37ea761f5001b5abaa7.jpg"
+  <img src="[https://i.pinimg.com/1200x/50/ca/ff/50caffe83eafe37ea761f5001b5abaa7.jpg](https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif)"
        alt="luqmanshaqiq2"
-       width="250" />
+       width="full" />
 </p>
 
 <p align="center">
