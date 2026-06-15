@@ -17,7 +17,7 @@
 <h2>My Stack</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,ts,react,html,css,nodejs,tailwind,bootstrap,mongodb,mysql,sqlserver,redis,docker,git,postman,azure,figma,wordpress," alt="My Stack"" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,linux,js,ts,react,html,css,nodejs,tailwind,bootstrap,mongodb,mysql,sqlserver,redis,docker,git,postman,azure,figma,wordpress," alt="My Stack"" alt="My Tech Stack" />
   </a>
 </p>
 
