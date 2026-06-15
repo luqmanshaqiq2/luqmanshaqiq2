@@ -14,10 +14,10 @@
 - 🧠 I'm currently learning the .NET framework & Azure
 - 🤝 Open to collaborating on WebDev & AI Projects
 
-<h2>Stack</h2>
+<h2>My Stack</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,php,bash,html,css,nodejs,tailwind,bootstrap,mongodb,mysql,redis,docker,kubernetes,git,githubactions,postman,azure,figma,wordpress,linux" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?dotnet,java,js,ts,php,bash,html,css,nodejs,tailwind,bootstrap,mongodb,mysql,redis,docker,kubernetes,git,githubactions,postman,azure,figma,wordpress,linux" alt="My Tech Stack" />
   </a>
 </p>
 
