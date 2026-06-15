@@ -7,7 +7,7 @@
 </p>
 <h1 align="center">Yoooo, I'm Luqman Cassim 🙋🏾‍♂️ </h1>
 
-### Nothing Poly, We just trying
+### Nothing Poly Here, We just trying
 
 - 🌍 I'm based in Sri Lanka
 - ✉️ You can contact me at [luqmanshaqiq2@gmail.com](mailto:luqmanshaqiq2@gmail.com)
