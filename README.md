@@ -5,7 +5,7 @@
        alt="luqmanshaqiq2"
        width="full" />
 </p>
-<h1 align="center">Yoooo, I'm Luqman Cassim 🙋🏾‍♂️ </h1>
+<h1 align="center">Hello I'm Luqman 🙋🏾‍♂️ </h1>
 
 ### Nothing Poly Here, We just trying
 
